@@ -1,2 +1,3 @@
 # musicmind
-a music recommender and musicplayer using python and python gui
+a music recommender desktop app and musicplayer using python and python gui
+give the right path and run mylogin.py
